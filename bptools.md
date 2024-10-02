@@ -13,6 +13,9 @@
 |Mainnet|blockp43pubs|FIO Chain Statistics|https://graph.fioprotocol.io|
 |Mainnet|blockp43pubs|Producer Ranking|https://snap.blockpane.com/chains/fio-mainnet/|
 |Mainnet|blockp43pubs|Producer Health|https://health.fioprotocol.io/|
+|Mainnet|bp@ledgerwise|Infrastructure health monitor|[https://nodestatus.ledgerwise.io/fio](https://nodestatus.ledgerwise.io/fio)
+|Mainnet|bp@ledgerwise|Curated List of API and Snapshots| https://nodestatus.ledgerwise.io/fio/list/p2p
+
 |Mainnet|blockp43pubs|FIO Fee Microservice|https://fio-stats.blockpane.com/v1/docs|
 |Mainnet|blockp43pubs|Chain Snapshots|https://snap.blockpane.com/chains/fio/|
 |Testnet|yxeiw3p53dns|Chain Snapshots|https://snap.blockpane.com/chains/fio/|
